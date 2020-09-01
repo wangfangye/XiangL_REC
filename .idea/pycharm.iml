@@ -2,6 +2,34 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/scrapy/book_cunqc/chapter7_selenium" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scrapy/book_cunqc/ProxyPool/proxypool" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scrapy/book_cunqc/ProxyPool" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scrapy/book_cunqc/Weixin/weixin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scrapy/book_cunqc/Weixin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scrapy/book_cunqc/CookiesPool" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scrapy/book_cunqc/chapter13_scrapy/tutorial/tutorial" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scrapy/book_cunqc/chapter13_scrapy/tutorial" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scrapy/book_cunqc/chapter13_scrapy/scrapydownloadtest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scrapy/book_cunqc/chapter13_scrapy/scrapydownloadtest/scrapydownloadtest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scrapy/book_cunqc/chapter13_scrapy/images360" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scrapy/book_cunqc/chapter13_scrapy/images360/images360" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scrapy/book_cunqc/chapter13_scrapy/ScrapySplashTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scrapy/book_cunqc/chapter13_scrapy/ScrapySplashTest/scrapysplashtest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scrapy/book_cunqc/chapter13_scrapy/ScrapySeleniumTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scrapy/book_cunqc/chapter13_scrapy/ScrapySeleniumTest/scrapyseleniumtest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scrapy/book_cunqc/chapter13_scrapy/ScrapyCrawlSpiderTest/scrapycrawlspidertest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scrapy/book_cunqc/chapter13_scrapy/ScrapyCrawlSpiderTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scrapy/book_cunqc/chapter13_scrapy/ScrapyUniversal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scrapy/book_cunqc/chapter13_scrapy/ScrapyUniversal/scrapyuniversal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scrapy/book_cunqc/chapter13_scrapy/scrapyuniversaltest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scrapy/book_cunqc/chapter13_scrapy/scrapyuniversaltest/scrapyuniversaltest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scrapy/book_cunqc/chapter13_scrapy/ScrapyTutorial" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_douban/douban/douban" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_douban/douban" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_douban/douban2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/testss" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rrrrr" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.6" jdkType="Python SDK" />
